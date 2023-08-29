@@ -42,17 +42,17 @@ export default function Navbar(props) {
                 </a>
                 <ul className="dropdown-menu">
                   <li>
-                    <a className="dropdown-item" href="/">
+                    <a className="dropdown-item" href="https://instagram.com/a.anubhav.__?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D">
                       Instagram
                     </a>
                   </li>
                   <li>
-                    <a className="dropdown-item" href="/">
+                    <a className="dropdown-item" href="https://github.com/Anubhavprogramer">
                       GitHub
                     </a>
                   </li>
                   <li>
-                    <a className="dropdown-item" href="/">
+                    <a className="dropdown-item" href="https://www.linkedin.com/in/anubhav-dubey-b7004125a">
                       Linkdin
                     </a>
                   </li>
