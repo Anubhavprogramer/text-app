@@ -195,7 +195,9 @@ export default function About(props) {
               mind. I'm here to bring your ideas to life and solve problems
               through technology.
             </div>
-            
+<div className="container">
+  
+</div>
           </div>
         </div>
       </div>
