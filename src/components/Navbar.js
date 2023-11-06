@@ -12,6 +12,7 @@ export default function Navbar(props) {
             {props.tittle}
           </Link>
           <button
+          // it is a navbar
             className="navbar-toggler"
             type="button"
             data-bs-toggle="collapse"
